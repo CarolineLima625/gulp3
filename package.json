@@ -1,0 +1,22 @@
+{
+  "name": "gulp-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Caroline",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.7.1"
+  }
+}
